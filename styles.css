@@ -1,0 +1,64 @@
+
+/* For mobile devices */
+@media (max-width: 480px) {
+    /* Styles */
+  }
+  
+  /* For tablets */
+  @media (min-width: 481px) and (max-width: 768px) {
+    /* Styles */
+  }
+  
+  /* For small screens/laptops */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* Styles */
+  }
+  
+  /* For desktops/large screens */
+  @media (min-width: 1025px) and (max-width: 1200px) {
+    /* Styles */
+  }
+  
+  /* For extra large screens/TVs */
+  @media (min-width: 1201px) {
+    /* Styles */
+  }
+
+  
+.Lentil {
+    font-family: cursive;
+    font-size: 15px;  
+    color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+        
+}
+
+.direct0 {
+    font-family: sans-serif;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.direct1 {
+    color: rgb(3, 78, 124);
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}  
+
+.ingre {
+    list-style-type: numeric; 
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} 
